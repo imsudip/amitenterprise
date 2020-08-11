@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214052193256",
+    "firebase_url": "https://amitenterprise-d3f72.firebaseio.com",
+    "project_id": "amitenterprise-d3f72",
+    "storage_bucket": "amitenterprise-d3f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214052193256:android:80df8a50b7f1246471da5d",
+        "android_client_info": {
+          "package_name": "com.sgstudio.amitEnterprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214052193256-hit2bn1310auulmp6g3cod15pt2u4tab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdFNpLT7ZjXi0VJnaxP1a5BRaPcesfUJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214052193256-hit2bn1310auulmp6g3cod15pt2u4tab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
