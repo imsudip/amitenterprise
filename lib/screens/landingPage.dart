@@ -46,13 +46,10 @@ class _LandingPageState extends State<LandingPage>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: white,
       appBar: AppBar(
-        elevation: 0,
-        backgroundColor: white,
         title: Text(
           tabs[selectedTab],
-          style: pageTitle.copyWith(color: blueDark),
+          style: headline1,
         ),
       ),
       body: Stack(

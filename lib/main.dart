@@ -1,6 +1,7 @@
 import 'package:amitEnterprise/notifier/labourNotifier.dart';
 import 'package:amitEnterprise/notifier/workNotifier.dart';
 import 'package:amitEnterprise/screens/home.dart';
+import 'package:amitEnterprise/screens/landingPage.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -27,7 +28,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: HomePage(),
+      home: LandingPage(),
     );
   }
 }
